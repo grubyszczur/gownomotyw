@@ -1,0 +1,33 @@
+/**
+ * @name hero of the shield fix
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/1001815352973459488/1102558748704251924/971531.jpg');
+  --backgroundColor: #00000000;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.7;
+  --homeImage: url('https://cdn.discordapp.com/attachments/1001815352973459488/1102560450991898655/biez.jpg');
+  --homeImageSize: 150%;
+  --themeColor1: #D2770F;
+  --themeColor2: #858722;
+  --customFont: Roboto;
+  --backgroundCode: rgb(0,0,0,0.5);
+  --backgroundName: rgb(0,0,0,0.5);
+}
+
+/* Any custom CSS below here */
